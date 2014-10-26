@@ -281,127 +281,127 @@ birçok ayarlama, ve sayısız seçenek bulacaksınız.</translation>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1629"/>
         <source>Verify</source>
-        <translation type="unfinished"/>
+        <translation>Onayla</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1302"/>
         <source>Here, you can choose what packages you would like to install. Hover over any of the packages to see a description, and select or deselect any packages you want to add or remove. Packages that are installed will be auto-selected.</source>
-        <translation type="unfinished"/>
+        <translation>Burada, yüklemek istediğiniz paketleri seçebilirsiniz. Açıklamasını görmek için paketlerin üzerine fare imlecini getirerek bekleyebilirsiniz. Kuracağınız ya da kaldıracağınız paketleri belirleyin. Listedeki paketlerden, sisteminizde yüklü olanlar zaten işaretli olacaktır.</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1633"/>
         <source>[Edit]</source>
-        <translation type="unfinished"/>
+        <translation>[Düzenle]</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1816"/>
         <source>KWIN Theme: </source>
-        <translation type="unfinished"/>
+        <translation>KWIN Tema:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1467"/>
         <source>Tint</source>
-        <translation type="unfinished"/>
+        <translation>Tint</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1828"/>
         <source>Position: </source>
-        <translation type="unfinished"/>
+        <translation>Pozisyon:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1493"/>
         <source>Wallpaper</source>
-        <translation type="unfinished"/>
+        <translation>Duvarkağıdı</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1848"/>
         <source>Name: </source>
-        <translation type="unfinished"/>
+        <translation>İsim:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1908"/>
         <source>To be installed: </source>
-        <translation type="unfinished"/>
+        <translation>Yüklenecek:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1912"/>
         <source>To be removed: </source>
-        <translation type="unfinished"/>
+        <translation>Kaldırılacak:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1625"/>
         <source>Verify your settings</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlarını doğrula</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1631"/>
         <source>Please review your changes now. If you agree, then proceed by clicking verify, otherwise click the edit button next to the setting you would like to change.</source>
-        <translation type="unfinished"/>
+        <translation>Şimdi yaptığınız değişiklikleri gözden geçirin. Eğer tercihlerinizde değişiklik yapacaksanız, ayarların yanında bulunan, düzenle butonuna tıklayın ve seçeneklerinizi onaylayarak devam edin.</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1634"/>
         <source>Desktop:</source>
-        <translation type="unfinished"/>
+        <translation>Masaüstü:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1635"/>
         <source>Documents:</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1636"/>
         <source>Downloads:</source>
-        <translation type="unfinished"/>
+        <translation>Indirilenler:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1637"/>
         <source>Music:</source>
-        <translation type="unfinished"/>
+        <translation>Müzik:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1638"/>
         <source>Pictures:</source>
-        <translation type="unfinished"/>
+        <translation>Resimler:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1639"/>
         <source>Public:</source>
-        <translation type="unfinished"/>
+        <translation>Ortak:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1640"/>
         <source>Templates:</source>
-        <translation type="unfinished"/>
+        <translation>Şablonlar:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1641"/>
         <source>Videos:</source>
-        <translation type="unfinished"/>
+        <translation>Videolar:</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1818"/>
         <source>KWIN Theme: Nothing to do</source>
-        <translation type="unfinished"/>
+        <translation>KWIN Tema: Yapılacak işlem yok</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1830"/>
         <source>Position: Nothing to do</source>
-        <translation type="unfinished"/>
+        <translation>Pozisyon: Yapılacak işlem yok</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1850"/>
         <source>Name: Nothing to do</source>
-        <translation type="unfinished"/>
+        <translation>İsim: Yapılacak işlem yok</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1916"/>
         <source>To be installed: Nothing to do</source>
-        <translation type="unfinished"/>
+        <translation>Kurulacaklar: Yapılacak işlem yok</translation>
     </message>
     <message>
         <location filename="../GUI_/MainGui_manjaroGrey.py" line="1917"/>
         <source>To be removed: Nothing to do</source>
-        <translation type="unfinished"/>
+        <translation>Kaldırılacaklar: Yapılacak işlem yok</translation>
     </message>
 </context>
 </TS>

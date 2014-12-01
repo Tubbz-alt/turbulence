@@ -829,8 +829,8 @@ class Ui_MainWindow(QtCore.QObject):
             
             #Sets the wallpaper release specific wallpapers.
             if openboxStatus:
-                releaseWallsOne = "/usr/share/turbulence/images/manjaro-grey/wallpapers/evodark.jpg"
-                releaseWallsTwo = "/usr/share/turbulence/images/manjaro-grey/wallpapers/evolight.jpg"
+                releaseWallsOne = "/usr/share/turbulence/images/manjaro-grey/wallpapers/Manjaro_Wall-FrankoM3_SergioAD.jpg"
+                releaseWallsTwo = "/usr/share/turbulence/images/manjaro-grey/wallpapers/Madera_Manjaro-FrankoM3.jpg"
                 self.wallpaperChoice1.setText("Evolution Dark")
                 self.wallpaperChoice2.setText("Evolution Light")
             elif kdeStatus:
